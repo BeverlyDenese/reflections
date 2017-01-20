@@ -1,0 +1,5 @@
+Question: What happens when you initialize a repository? Why do you need to do it?
+
+Response: Git creates the .git directory to hold the metadata necessary to track a file.
+The repository must be initialized so that there is a place to store the data generated 
+commits.
