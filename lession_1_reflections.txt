@@ -1,0 +1,41 @@
+Question 1: How did viewing a diff between two versions of a file help you see
+the bug that was introduced?
+Response:Well, all of the code that didn't change was not printed so it was easier to find the bug.  The printing was done on a need to know basis
+so there was no noise interference.
+
+Question 2: How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+Response: hmmm being able to see the result of each change could be 
+helpful if you decided to change or add new functionallity to the 
+program
+
+Question 3 : What do you think are the pros and cons of manually
+choosing when to create a commit, like you do in Git, vs having
+versions automatically saved, like google Docs does?
+Response:  vis a vis Git The big con is that it is possible to forget
+ to make a commit
+after making a change.  Another con is that you may make your commits
+too big or too small. Finding that 'just right' spot may not be as
+easy as you think.
+pro: you are in control
+vis a vis Google docs.  con: automatic saves may happen erratically
+making no logical sense
+pro:  if you get caught up in the moment you won't have to worry about 
+forgetting to save.
+
+Question 4: Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others like Google
+Docs treats files separately?
+Response:  Git was designed specifically for computer programs that may
+consist of interrealated files.  Google Docs was primarily intended for text
+files
+
+Question 5:  How can you use git log and git diff to view the history of files.
+Response:  'git log' shows you a list of each change with a unique ID
+            'git diff' allows you to use two unique ID's to compare the
+                 differences between those two checkpoints
+
+Question6: How might using version control make you more confident to 
+make changes that could break something?
+Response:  well you know you can go back to a last known good version 
+ so there is more freedom to try stuff out
