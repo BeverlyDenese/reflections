@@ -14,3 +14,10 @@ Question: How can you use the staging area to make sure you have one commit per 
 Reponse:
 hmmm you could compare the file that is in staging to the same file in the working 
 directory
+
+Question: What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Response:
+When many people are working on one program it might be helpful if each person had their
+own branch that could then be merged with the other branches.
