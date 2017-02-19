@@ -1,21 +1,21 @@
-Question: What happens when you initialize a repository? Why do you need to do it?
+1. Question: What happens when you initialize a repository? Why do you need to do it?
 Response: 
 Git creates the .git directory to hold the metadata necessary to track a file.
 "Initializing the repository" is what transforms a plain old directory into a Repository.
 
-Question: How is the staging area different from the working directory and the repository? 
+2. Question: How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
 Response: 
 The repository contains the files themselves and the collection of metadata held
 in the .git folder, the working directory holds all the files, the staging area contains 
 the files that are candidates for a commit.
 
-Question: How can you use the staging area to make sure you have one commit per logical change?
+3. Question: How can you use the staging area to make sure you have one commit per logical change?
 Reponse:
 hmmm you could compare the file that is in staging to the same file in the working 
 directory
 
-Question: What are some situations when branches would be helpful in keeping your history 
+4. Question: What are some situations when branches would be helpful in keeping your history 
 organized? How would branches help?
 
 Response:
