@@ -21,3 +21,9 @@ organized? How would branches help?
 Response:
 When many people are working on one program it might be helpful if each person had their
 own branch that could then be merged with the other branches.
+
+5. How do the diagrams help you visualize the branch structure?
+
+Reponse :
+The diagram is a map/graph of the branch rather than a list.  The graph is easier 
+to see.
