@@ -27,3 +27,10 @@ own branch that could then be merged with the other branches.
 Reponse :
 The diagram is a map/graph of the branch rather than a list.  The graph is easier 
 to see.
+
+6. What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+ 
+ Response:
+ You are able to combine changes made by multple users in a single file. So that we can see the 
+ that we've combined two files into one...
