@@ -32,5 +32,11 @@ to see.
 the diagram the way we do?
  
  Response:
- You are able to combine changes made by multple users in a single file. So that we can see the 
- that we've combined two files into one...
+ You are able to combine changes made by multple users in a single file. 
+ So that we can see that we've combined two files into one...
+ 
+ 7. What is the result of merging two branches together? 
+ Why do we represent it in the diagram the way we do?
+ Response:
+ You end up with one completely updated version. I have no idea why
+ why you represent it the way that you do.
