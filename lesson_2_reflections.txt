@@ -40,3 +40,14 @@ the diagram the way we do?
  Response:
  You end up with one completely updated version. I have no idea why
  why you represent it the way that you do.
+ 
+ 8. What are the pros and cons of Git’s automatic merging vs. always 
+ doing merges manually?
+ Response:
+ Pro  Automatic- saves time, keeps track of multiple collaborators changes
+ Pro Manual - there is no ambiguity
+ Con Automatic - possible ambiguity
+ Con Manual -  rough if more than one person is working in the repository - you would
+               have to check with the other collaborators each time to see what changes 
+			   they had made
+
