@@ -5,3 +5,10 @@ Response: You would especially want to use a remote repository if you you had ma
 Question 2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Response: If other people are working on the file you may not necessarily want to incorporate their changes.
+
+Question 3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Response:
+          Fork - create a copy of a repository in the cloud
+          clones- create a copy of a repository in the the cloud or create a copy of a repository by pulling it from the cloud to your               local machine
+          branch - a side path on a local repository
+
